@@ -1,6 +1,6 @@
 ### About Me
 
-I'm a recent graduate of App Academy in their 24 week program! I love being able to create something tangible from nothing and thanks to my programming skills I can!
+I'm a recent graduate of App Academy in their 24 week program! I love being able to create something tangible from nothing and thanks to my programming skills I can! I have experience with JavaScript, Python, React, Redux, and Express just to name a few!
 
 ## Skills
 
