@@ -1,9 +1,6 @@
-### Hi there 👋
+### About Me
 
-
-**conneru/conneru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I'm a recent graduate of App Academy in their 24 week program! I love being able to create something tangible from nothing and thanks to my programming skills I can!
 
 ## Skills
 
