@@ -1,7 +1,3 @@
-### About Me
-
-I'm a recent graduate of App Academy in their 24 week program! I love being able to create something tangible from nothing and thanks to my programming skills I can! I have experience with JavaScript, Python, React, Redux, and Express just to name a few!
-
 ## Skills
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=333333" /></a>
